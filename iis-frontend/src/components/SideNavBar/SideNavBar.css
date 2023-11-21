@@ -1,0 +1,21 @@
+/* SideNavBar.css */
+.ant-layout-footer{
+    padding: 8px 50px;
+}
+.ant-layout-sider {
+    background-color: #e9e9e9 !important; /* This changes the sidebar color */
+  }
+  
+  /* This changes the color of the menu and its items */
+  .ant-layout-sider .ant-menu,
+  .ant-layout-sider .ant-menu-item,
+  .ant-layout-sider .ant-menu-item-selected {
+    background-color: #e9e9e9 !important;
+    padding-left: 10px;
+  }
+  
+  /* This changes the color of submenu background */
+  .ant-layout-sider .ant-menu-submenu,
+  .ant-layout-sider .ant-menu-submenu-selected {
+    background-color: #e9e9e9 !important;
+  }

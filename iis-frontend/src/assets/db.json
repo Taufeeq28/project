@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@example.com",
+      "password": "password123",
+      "token": "mocked_token"
+    },
+    {
+      "email": "sameerahmed6686@gmail.com",
+      "password": "asssssss",
+      "id": 2
+    },
+    {
+      "email": "sameerahmed6686@gmail.com",
+      "password": "asssssss",
+      "id": 3
+    },
+    {
+      "firstName": "Taufeeq Ahmed",
+      "lastName": "Mohammed",
+      "email": "sameerahmed6686@gmail.com",
+      "phoneNumber": "17733137109",
+      "country": "United States",
+      "password": "123456789",
+      "id": 4
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "email": "sameerahmed6686@gmail.com",
+      "password": "asssssss",
+      "id": 7
+    },
+    {
+      "email": "sameerahmed6686@gmail.com",
+      "password": "asssssss",
+      "id": 8
+    },
+    {
+      "email": "sameerahmed6686@gmail.com",
+      "password": "asssssss",
+      "id": 9
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 10
+    }
+  ]
+}
